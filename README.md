@@ -1,0 +1,2 @@
+# skiramantashi
+swkata prework project
